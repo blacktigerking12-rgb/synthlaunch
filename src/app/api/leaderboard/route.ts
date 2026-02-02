@@ -4,7 +4,7 @@ import { bsc } from 'viem/chains';
 
 export const dynamic = 'force-dynamic';
 
-const CUSTODY_ADDRESS = '0x3Fa33A0fb85f11A901e3616E10876d10018f43B7' as Address;
+const CUSTODY_ADDRESS = '0xc8bb50a45c9280a3a7c28e1258bade5a766531ad' as Address;
 const BSC_RPC = 'https://bsc-dataseed.binance.org';
 
 const CUSTODY_ABI = parseAbi([
